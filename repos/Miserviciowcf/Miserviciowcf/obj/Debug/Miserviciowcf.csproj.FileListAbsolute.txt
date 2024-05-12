@@ -1,0 +1,11 @@
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\bin\Miserviciowcf.dll.config
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\bin\Miserviciowcf.dll
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\bin\Miserviciowcf.pdb
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\obj\Debug\Miserviciowcf.csproj.CoreCompileInputs.cache
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\obj\Debug\Miserviciowcf.dll
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\obj\Debug\Miserviciowcf.pdb
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\bin\EntityFramework.dll
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\bin\EntityFramework.SqlServer.dll
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\bin\EntityFramework.xml
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\bin\EntityFramework.SqlServer.xml
+C:\Users\ROBERTO\source\repos\Miserviciowcf\Miserviciowcf\obj\Debug\Miserviciowcf.csproj.CopyComplete
